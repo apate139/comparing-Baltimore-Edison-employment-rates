@@ -9,6 +9,7 @@ While this metric can be used to examine any inhabited area, how might it differ
 How do unemployment rates compare between suburban and metropolitan areas, specifically Baltimore, MD and Edison, NJ?
 
 #### Data Sources 
-[Excel file with original Opportunity Atlas data with employment rates for all tracts in Baltimore and Edison](https://github.com/apate139/comparing-Baltimore-Edison-employment-rates/blob/main/tract_working_rP_gP_pall.csv)
+[Opportunity Atlas Data](https://github.com/apate139/comparing-Baltimore-Edison-employment-rates/blob/main/tract_working_rP_gP_pall.csv)
+This Excel file contains raw data obtained from the Opportunity Atlas and lists the employment rates for each tract within Baltimore, MD and Edison, NJ. It also contains analyzed data, charts, and figures produced from data analysis that show the distribution of employment rates by tract within each area. These analyses are found under sheets 'Baltimore' and 'Edison'respectively. 
 
-
+#### Findings 
