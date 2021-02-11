@@ -8,5 +8,7 @@ While this metric can be used to examine any inhabited area, how might it differ
 ### Business Question ###
 How do unemployment rates compare between suburban and metropolitan areas, specifically Baltimore, MD and Edison, NJ?
 
+#### Data Sources 
+[Excel file with original Opportunity Atlas data with employment rates for all tracts in Baltimore and Edison](https://github.com/apate139/comparing-Baltimore-Edison-employment-rates/blob/main/tract_working_rP_gP_pall.csv)
 
 
