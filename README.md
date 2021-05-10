@@ -6,17 +6,18 @@ Given the recent pandemic, an increased focus has been placed on the issue of em
 While this metric can be used to examine any inhabited area, how might it differ between metropolitan and suburban areas, and what implications do these variances have? Baltimore, MD currently has a population of approximately 600,000 people, while Edison, NJ has a population of approximately 100,000 people. Baltimore offers proximity to Washington D.C. while Edison offers proximity to New York City; these contrasts parallels offer an interesting opportunity for further examination. We will utilize open data from The Opportunity Atlas to determine how employment rates compare between Baltimore, MD, and Edison, NJ and what implications these findings may have on inhabitants in these areas. 
 
 ## Business Question 
-How do unemployment rates compare between suburban and metropolitan areas, specifically Baltimore, MD and Edison, NJ?
+How do job growth rates compare between suburban and metropolitan areas, specifically Baltimore, MD and Edison, NJ?
 
 ## Data Sources 
-[Opportunity Atlas Data](https://github.com/apate139/comparing-Baltimore-Edison-employment-rates/blob/main/tract_working_rP_gP_pall.csv)
-This Excel file contains raw data obtained from the Opportunity Atlas and lists the employment rates for each tract within Baltimore, MD and Edison, NJ. It also contains analyzed data, charts, and figures produced from data analysis that show the distribution of employment rates by tract within each area. These analyses are found under sheets 'Baltimore' and 'Edison' respectively. 
+[Opportunity Atlas Data 1](https://github.com/apate139/comparing-Baltimore-Edison-employment-rates/blob/main/MP%201%20EC%20Revision.xlsx)
+[Opportunity Atlas Data 2](https://github.com/apate139/comparing-Baltimore-Edison-employment-rates/blob/main/MP1%20EC%20Revision2.xlsx)
+These Excel files contain raw data obtained from the Opportunity Atlas and lists the job growth rates for each tract within Baltimore, MD and Edison, NJ. It  contains analyzed data, charts, and figures produced from data analysis that show the distribution of employment rates by tract within each area. 
 
 ## Data Analysis Figures  
-In this analysis, employment rates were explored as a metric. Graphs depicting the distribution of employment rates by tract were created from the data and show how employment rates vary throughout Baltimore and Edison. 
-![alt text](https://github.com/apate139/comparing-Baltimore-Edison-employment-rates/blob/main/Screen%20Shot%202021-02-11%20at%206.54.00%20AM.png)
+In this analysis, job growth rates were explored as a metric. Graphs depicting the distribution of job growth rates by tract were created from the data and show how job growth rates vary throughout Baltimore and Edison. 
+![alt text](https://github.com/apate139/comparing-Baltimore-Edison-employment-rates/blob/main/JGR%20Edison.png)
 This graph shows the distribution of employment rates by tract within Edison and the lowest value is about 0.7 while the highest is about 8.62. The majority of the values fall evenly between these values. 
-![alt text](https://github.com/apate139/comparing-Baltimore-Edison-employment-rates/blob/main/Screen%20Shot%202021-02-11%20at%206.54.20%20AM.png)
+![alt text](https://github.com/apate139/comparing-Baltimore-Edison-employment-rates/blob/main/JGR%20Baltimore.png)
 In this graph, areas where the employment rates are added as part of the same tract have higher employment rates, but similar breakdowns as tracts with single rates. The lowest value in this dataset is 0.603, while the highest is 0.87. 
 
 ## Findings 
